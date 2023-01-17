@@ -46,3 +46,7 @@ $product = [
         45
     )
 ];
+
+echo "<pre>";
+print_r ($product["colors"][1]);
+echo "<pre>";
