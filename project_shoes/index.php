@@ -7,6 +7,7 @@
     <title>Projet chaussures</title>
 </head>
 <body>
+    <h1>Catalogue chaussures</h1>
     <?php include("menu.php"); ?>
 </body>
 </html>
